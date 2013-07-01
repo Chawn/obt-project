@@ -1,15 +1,8 @@
-<ul class="menu container">
-  		<li><a href="page.php?p=home">หน้าแรก</a></li>
-		<li><a href="page.php?p=page-two#topnav">ตำบลของเรา</a>
-			<ul>
-				<li>
-					<a href="#">สภาพข้อมูลพื้นฐาน</a>
-				</li>
-				<li>
-					<a href="#">สินค้า OTOP</a>
-				</li>
-				<li>
-					<a href="#">สถานที่สำคัญ</a>
+หน้าแรก
+1. ตำบลของเรา
+* สภาพข้อมูลพื้นฐาน
+* สินค้า OTOP
+* สถานที่สำคัญ</a>
 				</li>
 				<li>
 					<a href="#">แกลเลอรี่</a>
